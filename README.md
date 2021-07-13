@@ -16,7 +16,7 @@ Building Custom Object Detection model on VisDrone2021 dataset using state of th
 ![alt text](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5/blob/main/images/Graphs.png)
 </br>
 
-## Train images
+## Train_batch images
 ![alt text](https://github.com/basavraj-chinagundi/VisDrone_YOLOv5/blob/main/images/train_batch.jpg)
 </br>
 
